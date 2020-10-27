@@ -1,3 +1,7 @@
 body {
-    transform: skew(3deg, 3deg);
+    transform: skew(5deg, 5deg) !important;
+}
+
+* {
+    font-family: 'Wingdings' !important;
 }
